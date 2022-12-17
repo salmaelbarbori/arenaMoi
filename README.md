@@ -1,2 +1,2 @@
 # arenaMoi
-Here you'll find some solution of some basic problems of ARENA.MOI platform
+Here you'll find some solutions of some basic problems (ARENA.MOI platform)
